@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hey! I'm Ashish Kumar Dangi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish)
+[![Linkedin: Ashish Kumar Dangi](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishkumardangi/)](https://www.linkedin.com/in/ashishkumardangi/)
+[![Twitter: Ashish Dangi](https://img.shields.io/twitter/follow/ashishdangi369?style=social)](https://twitter.com/ashishdangi369)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
+[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma) -->
+  
+I develop Android Mobile Applications, build technical communities, create content and love meeting new people!
 
 <!--
 **DangiAshish/DangiAshish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
