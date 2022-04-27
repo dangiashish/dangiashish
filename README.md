@@ -2,9 +2,7 @@
 
 Connect at  ashishkumardangi@rajasthan.in
 
-<script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channelid="UCfkmMd-U1dJxsOurxkUp-tw" data-layout="full" data-count="hidden"></div>
 
 [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish)
 
