@@ -10,7 +10,7 @@ To learn more about me and check out my profile, please visit :
 [![Medium Badge](https://img.shields.io/badge/-@Ashish%20Dangi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashishdangi)](https://medium.com/@ashishdangi)
 ![Profile views](https://gpvc.arturio.dev/dangiashish)  
 
-I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue) them, who visit here. :)
+I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue), who visit here. :)
 
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=light)](https://github.com/dangiashish/github-readme-stats)
 
