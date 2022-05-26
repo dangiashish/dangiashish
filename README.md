@@ -2,16 +2,12 @@
 
 Connect at  ashishkumardangi@rajasthan.in
 
-
-
 [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish)
-
 [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish)
-
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity) -->
 [![Linkedin: Ashish Kumar Dangi](https://img.shields.io/badge/Ashish%20Kumar%20Dangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishkumardangi/)](https://www.linkedin.com/in/ashishkumardangi/)
-
 [![Twitter: Ashish Dangi](https://img.shields.io/twitter/follow/ashishdangi369?style=social)](https://twitter.com/ashishdangi369)
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
@@ -20,6 +16,8 @@ Connect at  ashishkumardangi@rajasthan.in
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/dangiashish/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=calm)](https://github.com/dangiashish/github-readme-stats)
+
+<p align="center"> <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dangiashish&theme=light" /> </p>
   
 I develop Android Mobile Applications, build technical communities, create content and love meeting new people!
 
