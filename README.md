@@ -10,7 +10,7 @@ Connect at  ashishkumardangi@rajasthan.in
 [![Twitter: Ashish Dangi](https://img.shields.io/twitter/follow/ashishdangi369?style=social)](https://twitter.com/ashishdangi369)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
 
-[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashishdangi)](https://medium.com/@ashishdangi)
+[![Medium Badge](https://img.shields.io/badge/-@Ashish%20Dangi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashishdangi)](https://medium.com/@ashishdangi)
 <!--  [![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma) -->
 
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/dangiashish/github-readme-stats)
