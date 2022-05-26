@@ -15,10 +15,10 @@ Connect at  ashishkumardangi@rajasthan.in
 
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=light)](https://github.com/dangiashish/github-readme-stats)
 
+<img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dangiashish&theme=light" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=light)](https://github.com/dangiashish/github-readme-stats)
 
-<img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dangiashish&theme=light" />
-  
 I develop Android Mobile Applications, build technical communities, create content and love meeting new people!
 
 <!--
