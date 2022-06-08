@@ -1,4 +1,4 @@
-## Hey! I'm Ashish Choudhary ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Ashish Choudhary !
 Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
 I upload some content on my youtube channel [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish) for my hobby and to help others through it. You can [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish) me here to connect with me.
 
