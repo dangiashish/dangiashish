@@ -16,8 +16,6 @@ I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangi
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=light)](https://github.com/dangiashish/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dangiashish&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=light)](https://github.com/dangiashish/github-readme-stats)
 
 ##Thank You :)
