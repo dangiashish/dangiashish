@@ -8,7 +8,6 @@ To learn more about me and check out my profile, please visit my plateform :
 [![Medium Badge](https://img.shields.io/badge/-@Ashish%20Dangi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashishdangi)](https://medium.com/@ashishdangi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=social&logo=Hackerrank)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
 
-
 [![Linkedin: Ashish Kumar Dangi](https://img.shields.io/badge/Ashish%20Kumar%20Dangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishkumardangi/)](https://www.linkedin.com/in/ashishkumardangi/)
 [![Twitter: Ashish Dangi](https://img.shields.io/twitter/follow/ashishdangi369?style=social)](https://twitter.com/ashishdangi369)
 ![Profile views](https://gpvc.arturio.dev/dangiashish)  
