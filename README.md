@@ -5,13 +5,16 @@ I upload some content on my youtube channel [![CodeByAshish](https://img.shields
 To learn more about me and check out my profile, please visit my plateform :
 
 [![CodeByAshish](https://img.shields.io/badge/visit%40-CodeByAshish-brightgreen)](https://codebyashish.netlify.app)
-[![Medium Badge](https://img.shields.io/badge/-@Ashish%20Dangi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashishdangi)](https://medium.com/@ashishdangi)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=social&logo=Hackerrank)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
+![Profile views](https://gpvc.arturio.dev/dangiashish) 
 
-[![Linkedin: Ashish Kumar Dangi](https://img.shields.io/badge/Ashish%20Kumar%20Dangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishkumardangi/)](https://www.linkedin.com/in/ashishkumardangi/)
-[![Twitter: Ashish Dangi](https://img.shields.io/twitter/follow/ashishdangi369?style=social)](https://twitter.com/ashishdangi369)
-![Profile views](https://gpvc.arturio.dev/dangiashish)  
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumardangi/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ashishdangi369)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/coder.ashish)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/beingashishdangi)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/codebyashish)
+ 
 I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue), who visit here. :)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/dangiashish/github-readme-stats)
