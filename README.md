@@ -14,11 +14,13 @@ To learn more about me and check out my profile, please visit my plateform :
 
 I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue), who visit here. :)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=light)](https://github.com/dangiashish/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=light)](https://github.com/dangiashish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
 ##Thank You.. :)
+
+
 <!--
 **DangiAshish/DangiAshish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
