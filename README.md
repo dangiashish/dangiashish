@@ -2,10 +2,12 @@
 Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
 I upload some content on my youtube channel [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish) for my hobby and to help others through it. You can [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish) me here to connect with me.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangiashish&repo=Birthday-Wish-App)](https://github.com/dangiashish/Birthday-Wish-App)
+
 To know more about me, please check visit my portfolio :
 
 [![CodeByAshish](https://img.shields.io/badge/visit%40-CodeByAshish-brightgreen)](https://codebyashish.netlify.app)
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
