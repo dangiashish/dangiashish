@@ -7,7 +7,6 @@ To learn more about me and check out my profile, please visit my plateform :
 [![CodeByAshish](https://img.shields.io/badge/visit%40-CodeByAshish-brightgreen)](https://codebyashish.netlify.app)
 ![Profile views](https://gpvc.arturio.dev/dangiashish) 
 
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumardangi/)
