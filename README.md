@@ -2,10 +2,10 @@
 Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
 I upload some content on my youtube channel [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish) for my hobby and to help others through it. You can [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish) me here to connect with me.
 
-To learn more about me and check out my profile, please visit my plateform :
+To know more about me, please check visit my portfolio :
 
 [![CodeByAshish](https://img.shields.io/badge/visit%40-CodeByAshish-brightgreen)](https://codebyashish.netlify.app)
-![Profile views](https://gpvc.arturio.dev/dangiashish) 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
@@ -16,7 +16,6 @@ To learn more about me and check out my profile, please visit my plateform :
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/codebyashish)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917424882348)
  
-I am thankful to ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue), who visit here. :)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
