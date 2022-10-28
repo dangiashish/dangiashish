@@ -19,7 +19,6 @@ To know more about me, please visit my portfolio :
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/codebyashish)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917424882348)
  
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
