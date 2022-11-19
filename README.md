@@ -24,6 +24,9 @@ To know more about me, please visit my portfolio :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangiashish&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
+<a href="https://github.com/DangiAshish/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangiashish&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+</a>
 ##Thank You.. :)
 
 
