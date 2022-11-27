@@ -5,7 +5,6 @@ I upload some content on my youtube channel [![CodeByAshish](https://img.shields
 Most ⭐ repo : <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangiashish&repo=Birthday-Wish-App)](https://github.com/dangiashish/Birthday-Wish-App)
 
-
 To know more about me, please visit my portfolio :
 
 [![CodeByAshish](https://img.shields.io/badge/visit%40-CodeByAshish-brightgreen)](https://codebyashish.netlify.app)
