@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/DangiAshish/DangiAshish/main/IMG_20221022_123234.png"/><br/>
+
 Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
 
 
