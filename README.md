@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/DangiAshish/DangiAshish/main/IMG_20221022_123234.png"/><br/>
 Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
-
-
-
-
 I upload some content on my youtube channel [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish) for my hobby and to help others through it. You can [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish) me here to connect with me.
 Most ⭐ repo : <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangiashish&repo=Birthday-Wish-App)](https://github.com/dangiashish/Birthday-Wish-App)
@@ -11,7 +7,6 @@ To know more about me, please visit my portfolio :
 [![CodeByAshish](https://img.shields.io/badge/Visit%20🌐%20CodeByAshish.in-ffffff?style=for-the-badge&logo=website&logoColor=white)](https://codebyashish.netlify.app)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
 [![@ashishdangi's Holopin board](https://holopin.me/ashishdangi)](https://holopin.io/@ashishdangi)
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumardangi/)
