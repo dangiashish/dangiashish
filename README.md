@@ -1,14 +1,20 @@
 <img src="https://raw.githubusercontent.com/dangiashish/dangiashish/main/IMG_20221022_123234.png"/><br/>
-Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. 
-I upload some content on my youtube channel. 
+<h1>Hi 👋, I'm Ashish</h1>
+<h3>A passionate self-taught Android Developer from Rajasthan, India 👨‍💻</h3>
+
+## 💫 About Me:
+Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future. I upload some content on my youtube channel. 
 [![CodeByAshish](https://img.shields.io/youtube/channel/subscribers/UCfkmMd-U1dJxsOurxkUp-tw?label=CodeByAshish&style=social)](https://www.youtube.com/codebyashish) for my hobby and to help others through it. You can [![GitHub dangiashish](https://img.shields.io/github/followers/dangiashish?label=follow&style=social)](https://github.com/dangiashish) me here to connect with me.
-Most ⭐ repo : <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangiashish&repo=Birthday-Wish-App)](https://github.com/dangiashish/Birthday-Wish-App)
-To know more about me, please visit my portfolio :
-[![CodeByAshish](https://img.shields.io/badge/Visit%20🌐%20CodeByAshish.in-ffffff?style=for-the-badge&logo=website&logoColor=white)](https://codebyashish.netlify.app)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=dangiashish&left_color=gray&right_color=blue)
-[![@ashishdangi's Holopin board](https://holopin.me/ashishdangi)](https://holopin.io/@ashishdangi)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
+
+## 💻 Tech Stack:
+![ANDROID](https://img.shields.io/badge/android-%23ffffff.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
+![Java](https://img.shields.io/badge/java-%23ffffff.svg?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/kotlin-%23ffffff.svg?style=for-the-badge&logo=kotlin&logoColor=AE00FF)
+![Firebase](https://img.shields.io/badge/firebase-%23ffffff.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/flutter-%23ffffff.svg?style=for-the-badge&logo=flutter&logoColor=blue)
+![Firebase](https://img.shields.io/badge/dart-%23ffffff.svg?style=for-the-badge&logo=dart&logoColor=blue)
+
+## 🌐 Connect with Me:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumardangi/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ashishdangi369)
@@ -17,7 +23,17 @@ To know more about me, please visit my portfolio :
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/codebyashish)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917424882348)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashishdangi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
+[![CodeByAshish](https://img.shields.io/badge/Visit%20🌐%20CodeByAshish.in-ffffff?style=for-the-badge&logo=website&logoColor=white)](https://codebyashish.netlify.app)
 
+
+
+[![@ashishdangi's Holopin board](https://holopin.me/ashishdangi)](https://holopin.io/@ashishdangi)
+
+
+
+### Most ⭐ repo : <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangiashish&repo=Birthday-Wish-App)](https://github.com/dangiashish/Birthday-Wish-App)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangiashish&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
