@@ -28,7 +28,7 @@ Coding has become a part of my daily routine ever since I learned what coding is
 
 
 
-[![@ashishdangi's Holopin board](https://holopin.me/ashishdangi)](https://holopin.io/@ashishdangi)
+<!-- [![@ashishdangi's Holopin board](https://holopin.me/ashishdangi)](https://holopin.io/@ashishdangi)   -->
 
 
 
