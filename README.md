@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dangiashish/dangiashish/main/IMG_20221022_123234.png"/><br/>
+<img src="https://github.com/dangiashish/dangiashish/assets/70362030/505c1505-c6e3-4b05-b5d3-079d7062e4a1"/><br/>
 <h1>Hi 👋, I'm Ashish</h1>
 <h3>A passionate self-taught Android Developer from Rajasthan, India 👨‍💻</h3>
 
